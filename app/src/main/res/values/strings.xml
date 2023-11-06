@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intents</string>
+    <string name="credor">Desenvolupat per Oriol Casacuberta</string>
+    <string name="about">Regles del joc:</string>
+</resources>
